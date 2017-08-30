@@ -41,8 +41,51 @@ At the end of each sprint, a sprint review is performed in order to underestand 
 image::../resources/agile.jpg[]
 
 
-== Project Management
+== Agile Methodology in Github & Zenhub
 
+The agile methodology is fully compatible with Github and Zenhub. In detail, Github provides a framework for managing documents (code, text, etc), coutinous follow-up of the project (using the Wiki, for example), and more important, managing the product releases (output of each spint). 
+
+Complementary, Zenhub provides a kanban model for managing the global backlogs, sprint backlogs, provide burndown reports, managing the isues life-cycle and, define objectives (sprints and product releases).
+
+Considering these overall description of the Github and Zenhub usage, the <<agile_ict, Table 2>> provide the association between Agile and the depicted tools. 
+
+[cols="40,60", options="header"] 
+[[agile_ict]]
+.Agile vs Github & Zenhub
+|===
+|Element
+|Description
+
+|Stories/User Stories
+|Issues 
+
+|Sprint Backlog
+| Backlog list in the board (Zenhub). Milestoned & unsassigned issues.
+
+|Global backlog (or icebox)
+| Icebox in the board (Zenhub). Unmilestoned & unassigned issues
+
+|Sprints Planning
+| TODO list in the board (Zenhub)
+
+|Sprints
+| Milestones
+
+|Daily Scruum Meeting
+| Wiki (Github) & Burndown /up charts (Zenhub reports)
+
+|Sprint Review
+| Wiki (Github)
+
+|Sprint Review
+| Wiki (Github)
+
+|Finished Work
+| Code release (Github)
+
+|===
+
+== Problem Definition
 
 [bibliography]
 == References
