@@ -87,8 +87,10 @@ Considering these overall description of the Github and Zenhub usage, the <<agil
 
 == Problem Definition
 
+The best way to 
+
 [bibliography]
 == References
 
-[[[Szalvay-2004]]] Szalvay, V. An Introduction to Agile Software Development (2004). http://www.danube.com/docs/Intro_to_Agile.pdf
+[[Szalvay-2004]] Szalvay, V. An Introduction to Agile Software Development (2004). http://www.danube.com/docs/Intro_to_Agile.pdf
 
