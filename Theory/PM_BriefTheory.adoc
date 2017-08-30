@@ -1,9 +1,51 @@
-= Project Management Course
+= Project Management Course: Zenhub + Github, when agile become a reality
 Aitor Corchero <aitor.corchero@eurecat.org>
-
 :version: 1.0
 :toc: left
 :toc-title: Project Management
 
 == Introduction
+
+Agile development or simply agile is a software methodology development that promotes the flexibility, interactivity and transparency <<Szalvay-2004>>.  
+
+Agile software development projects are based on the nature of evolving (not fixed) requirements, (re-) usable code and the continous testing. This methodology (see <<agile_elem, Table 1>> ) key elements are: 
+
+[cols="40,60", options="header"] 
+[[agile_elem]]
+.Agile key elements
+|===
+|Element
+|Description
+
+|Stories/User Stories
+|Refers to the user requirements that also corresponds with product features.
+
+|Sprint Backlog
+|The collection of work scheduled for a sprint. At the begining of each sprint, the team decides the work to do during the sprint. These tasks should be organised by priority.
+
+|Global backlog (or icebox)
+| A collection of all user-stories. When a new user-story is defined, it is stored in the global backlog for their selection. Thus, the development team select them and introduce into the sprint. The main intention is to priorize as well the tasks for making simple their selection.
+
+|Sprints
+| Iteration cycles of the development cycle. Normaly 2-4 weeks. The main objective is to provide a small development (or prototype) to the customers.
+|===
+
+The agile development cycle (<<img-agile, Figure 1>>) starts with the definition of the product backlog (user-stories, featues, etc.). During the spring planning, stories are selected to be implemented. Thus, it pass to the sprint backlog. 
+
+During the sprint development the stories are implemented and evaluated during 1-4 weeks. Each day during the sprint, several daily scrum meetings are performed to evaluate the work, the level of accomplishent and the project execution. Then, burndown and velocity charts are revised to see if the sprint is delayed, on time or faster than expected. 
+
+At the end of each sprint, a sprint review is performed in order to underestand the mistakes (learn from the experience). Moreover, the product is provided to the customer and a feedback from user is received, an new stories could appear. 
+
+[#img-agile] 
+.Agile development cycle
+image::../resources/agile.jpg[]
+
+
+== Project Management
+
+
+[bibliography]
+== References
+
+[[[Szalvay-2004]]] Szalvay, V. An Introduction to Agile Software Development (2004). http://www.danube.com/docs/Intro_to_Agile.pdf
 
