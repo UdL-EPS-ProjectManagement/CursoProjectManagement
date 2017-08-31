@@ -6,7 +6,7 @@ Moreover, the methodology will be implemented in an example based on creating so
 
 ### Session documentation
 
-[Theory](https://udl-eps-projectmanagement.github.io/CursoProjectManagement/Theory/PM_BriefTheory.html)
+[Theory](Theory/PM_BriefTheory.html)
 
 ### Support or Contact
 
