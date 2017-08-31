@@ -2,6 +2,7 @@ baseURL = "https://udl-eps-projectmanagement.github.io/"
 languageCode = "en-us"
 title = "Project Management Course"
 theme = "hugo-nuo"
+publishDir = "docs"
 enableRobotsTXT = true
 pygmentsuseclasses = true
 PygmentsCodeFences = true
