@@ -71,11 +71,11 @@ Considering these overall description of the Github and Zenhub usage, the <<agil
 |Sprints
 | Milestones
 
-|Daily Scruum Meeting
-| Wiki (Github) & Burndown /up charts (Zenhub reports)
-
-|Sprint Review
+|Sprint Planning Meeting
 | Wiki (Github)
+
+|Daily Scruum Meeting
+| Wiki (Github) & Burndown/up charts (Zenhub reports)
 
 |Sprint Review
 | Wiki (Github)
@@ -85,9 +85,63 @@ Considering these overall description of the Github and Zenhub usage, the <<agil
 
 |===
 
-== Problem Definition
+== Hands on Github and Zenhub
 
-The best way to 
+[NOTE]
+.Customer need
+====
+eCORP, a larger company in business development, wants to elaborate the curse documentation for training their customers and employes. With this regards, we need to manage the development and resources to do it efficiently in 1 week.
+====
+
+=== STEP 1. Initialise Github
+
+To initialise Github, it is necesary to go to https://github.com. Once in the github page, you have to log in or sign in into the platform. 
+
+[#img-gsignin] 
+.GitHub Sign In page
+image::../resources/GithubSignIn.png[]
+
+Once the Github is created, the next step is to log in the platform and create a new repository. 
+
+[#img-gmainpage] 
+.GitHub main user page
+image::../resources/Githubmain.png[]
+
+In the page of creating a new repository, you have to fill the form including a repository name, description, nature of the repository, and some files for the init (readme and licence files). Once specified this parameters, press the buton create the repository to start working. 
+
+[#img-grepocreation] 
+.GitHub Github init repository
+image::../resources/grepocreation.png[]
+
+Yo have your repository created!!!! Now, browse to the repository to start working with Github. 
+
+[#img-grepopage] 
+.GitHub repository main view
+image::../resources/grepopage.png[]
+
+Considering the repository, the main part is the code repository. But before starting with it, we will start with the Wiki (<<gwiki, Figure 6>>). The Wiki will store the sprint planning meeting, daily scrum meeting and sprint review. Moreover, it will serve also to store some ideas or additional information relevant for the project. 
+
+[#img-gwiki] 
+.Wiki for storing the meetings minutes
+image::../resources/gwiki.png[]
+
+==== Sprint Planning Meeting
+
+The sprint planning meeting will cover the agenda for passing the main issues from the backlog to the sprint backlog according to the customer requirements and feedbacks. 
+
+[#img-sprintPlanning] 
+.Sprint Planning Minutes and Agenda
+image::../resources/sprintPlanning.png[]
+
+==== Daily scrum meeting
+
+==== Sprint Review
+
+
+
+=== STEP 2. 
+
+
 
 [bibliography]
 == References
