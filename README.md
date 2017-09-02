@@ -6,7 +6,10 @@ Moreover, the methodology will be implemented in an example based on creating so
 
 ### Session documentation
 
-[Theory](Theory/PM_BriefTheory.html)
+- [Hand on Github practice: HTML Document](Theory/PM_BriefTheory.html)
+
+
+- [Hand on Github practice: PDF Document](Theory/PM_BriefTheory.pdf)
 
 ### Support or Contact
 

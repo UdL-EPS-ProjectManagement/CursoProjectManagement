@@ -146,7 +146,7 @@ image::../resources/scrumMeeting.png[]
 This part will comprise the sprint review and customer feedback main points.
 
 [#img-sprintReview] 
-.Daily Scrum Meeting Minutes and Agenda
+.Sprint review main aspects
 image::../resources/sprintReview.png[]
 
 Once initialising Github and underestanding main documents, lets we will start defining the general backlog (issues) and the corresponding sprints.
@@ -166,13 +166,13 @@ image::../resources/gnewboard.png[]
 
 The product backlog or "New Issues" appears in the board, so, we need to fill it with the corresponding issues. For that, we have to create new issues indicating the title and the description. The more, we have to specify the label (action of the activity) and the estimation for doing the task. The importance of the task could be determined by the order of the tasks inside the list. 
 
-[#img-gnewboard] 
+[#img-gnewissue] 
 .Create new issue for the project management 
 image::../resources/newIssue.png[]
 
 After this, the board "new issue" contains the desired task to be performed. 
 
-[#img-gnewboard] 
+[#img-gbacklog] 
 .Product Backlog list 
 image::../resources/productBacklog.png[]
 
@@ -186,7 +186,7 @@ image::../resources/board.png[]
 
 For creating a milestone, we have to click on the button "+" at right of "new issue". Once clicked, we select "milestone" to create a new one and, the milestone form appears. In there, we select the title and the description at same as the duration. Once created, We have our first sprint defined!!!
 
-[#img-gboard] 
+[#img-gmilestone] 
 .Create new milestone
 image::../resources/newMilestone.png[]
 
@@ -202,7 +202,37 @@ image::../resources/gburndown.png[]
 
 === STEP 5. Product Release
 
-The product release make reference to the end of the sprint and teh presentation of a prototype to the customer for getting their feedback. 
+The product release make reference to the end of the sprint and teh presentation of a prototype to the customer for getting their feedback. In the one hand, Zenhub provides an element to manage the product releases and see if the product of the sprint is ging on time or delayed. 
+
+[#img-grelease] 
+.Product Release management graph
+image::../resources/grelease.png[]
+
+To enable this option, we have to create a new release (similarly as the milestone) and assign the issues to that defined release (following similar steps and in the milestones). 
+
+[#img-gnewrelease] 
+.Creation of a new Release in Zenhub
+image::../resources/newRelease.png[]
+
+On the otehr hand, once the sprint is finished, we have to create the release with the corresponding code. For that, Github provide us the necessary tools. For creating a new release, we have to go the repository main page and click on the "Release" tab. Omce there, we will click on "new release" and fill the corresponding form. 
+
+[#img-greleaseform] 
+.Creation of a new Release in Github
+image::../resources/greleaseform.png[]
+
+Once completed the form, we click on the button and then, a code zip will be created with the master branch code. This will apear in the releases list.
+
+[#img-grelase] 
+.Releases page once the release has been created
+image::../resources/greleaselist.png[]
+
+== Conclusion
+
+During this part of the course we have learn: 
+
+- Agile basics
+- Agile implementation in Github
+- Agile implementation in Zenhub
 
 [bibliography]
 == References
