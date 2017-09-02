@@ -10,6 +10,7 @@ Moreover, the methodology will be implemented in an example based on creating so
 
 
 - [Hand on Github practice: PDF Document](Theory/PM_BriefTheory.pdf)
+- [Hand on Github practice: HTML Presentation](Presentation/course-presentation.html)
 
 ### Support or Contact
 
