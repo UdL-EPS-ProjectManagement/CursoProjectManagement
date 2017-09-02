@@ -13,6 +13,7 @@
 :toc: right
 :blank:
 :status:
+:icons: font
 
 
 == Agile methodology
@@ -93,5 +94,64 @@ image::../resources/grepocreation.png[]
 **Repository main page**
 
 image::../resources/grepopage.png[]
+
+== STEP 2: Continous documentation of Agile Meetings
+
+Continous documentation of agile meetings for maintaning the team update: 
+
+[%step]
+--
+* Sprint Planning Meeting
+--
+[%step]
+--
+* Daily Scrum Meeting
+--
+
+[%step]
+--
+* Sprint Review
+--
+
+<<<
+**Sprint Planning Meeting**
+
+image::../resources/sprintPlanning.png[]
+
+<<<
+**Daily Scrum Meeting**
+
+image::../resources/scrumMeeting.png[]
+
+<<<
+**Sprint Review**
+
+image::../resources/sprintReview.png[]
+
+== STEP 3: General Backlog
+
+...........................................
+We need to work with Zenhub. So, we need to install the chrome extension or use the web app.
+...........................................
+
+image::../resources/gnewboard.png[]
+
+
+<<<
+**Create new Issues**
+
+image::../resources/newIssue.png[]
+
+<<<
+**Product Backlog**
+
+image::../resources/productBacklog.png[]
+
+<<<
+**Product Backlog**
+
+image::../resources/productBacklog.png[]
+
+
 
 
