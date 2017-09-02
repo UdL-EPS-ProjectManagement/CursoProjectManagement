@@ -152,6 +152,21 @@ image::../resources/productBacklog.png[]
 
 image::../resources/productBacklog.png[]
 
+== STEP 4: Sprint Backlog
 
+...........................................
+In the sprnt backlog we have to make a milestone (using Zenhub or Github, no matters)
+...........................................
+
+image::../resources/board.png[]
+
+<<<
+**Create a milestone**
+
+image::../resources/newMilestone.png[]
+
+<<<
+[quote]
+For the sprint planning assign issues from the product backlog into the milestone and move the issue the column. 
 
 
