@@ -169,4 +169,39 @@ image::../resources/newMilestone.png[]
 [quote]
 For the sprint planning assign issues from the product backlog into the milestone and move the issue the column. 
 
+== STEP 5: Sprint Planning
+
+[quote]
+One method to know how is going the sprint is by the burndown graph. In Zenhub, this is placed inside Reports. 
+
+<<<
+image::../resources/gburndown.png[]
+
+== STEP 6: Product Release
+
+[quote]
+Prototype generation to show it to the customer. Here we explore two aspects:  Release planning management (Zenhub), Release placement (Github)
+
+<<< 
+**Release Planning Management**
+
+image::../resources/newRelease.png[]
+
+<<< 
+**Release Placement (release generation)**
+
+image::../resources/greleaseform.png[]
+
+<<< 
+**Release Placement (release result)**
+
+image::../resources/greleaselist.png[]
+
+== Conclusions
+
+* Agile basics
+* Agile implementation in Github
+* Agile implementation in Zenhub
+
+
 
