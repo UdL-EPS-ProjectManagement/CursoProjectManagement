@@ -4,13 +4,18 @@ This session is focused on implementing agile methodology in a Github and Zenhub
 
 Moreover, the methodology will be implemented in an example based on creating some markdown documents. 
 
+### Session Agenda
+
+- [SESSION 1: Projects, Agile & SCRUM ](OtherResources/170905_Agile_UdL.pdf)
+- [SESSION 2: Hand on Github practice](Presentation/course-presentation.html)
+- [SESSION 3: Workshop](OtherResources/workshop.pdf)
+
 ### Session documentation
 
 - [Hand on Github practice: HTML Document](Theory/PM_BriefTheory.html)
 
 
 - [Hand on Github practice: PDF Document](Theory/PM_BriefTheory.pdf)
-- [Hand on Github practice: HTML Presentation](Presentation/course-presentation.html)
 
 ### Support or Contact
 
