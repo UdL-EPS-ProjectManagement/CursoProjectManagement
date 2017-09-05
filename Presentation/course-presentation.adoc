@@ -75,7 +75,7 @@ eCORP, a larger company in business development, wants to elaborate the curse do
 
 [%step]
 --
-* Create new repository
+* Overview the repository
 --
 
 <<< 
@@ -134,7 +134,7 @@ image::../resources/sprintReview.png[]
 We need to work with Zenhub. So, we need to install the chrome extension or use the web app.
 ...........................................
 
-image::../resources/gnewboard.png[]
+image::../resources/gnewBoard.png[]
 
 
 <<<
@@ -147,10 +147,6 @@ image::../resources/newIssue.png[]
 
 image::../resources/productBacklog.png[]
 
-<<<
-**Product Backlog**
-
-image::../resources/productBacklog.png[]
 
 == STEP 4: Sprint Backlog
 
